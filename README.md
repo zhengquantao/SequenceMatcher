@@ -5,7 +5,7 @@ Java reimplementation of Python [difflib.SequenceMatcher](https://github.com/pyt
 <summary>Usage</summary>
 
 ### Code
-You may also be used directly in a Java environment
+You may also be used directly in a Java environment and output the same result as Python
 ```java
 class Main {
     public static void main(String[] args) {
