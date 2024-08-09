@@ -1,5 +1,5 @@
 # SequenceMatcher
-Java reimplementation of Python difflib.SequenceMatcher
+Java reimplementation of Python [difflib.SequenceMatcher](https://github.com/python/cpython/blob/3.12/Lib/difflib.py#L44)
 
 <details open>
 <summary>Usage</summary>
